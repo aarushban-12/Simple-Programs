@@ -1,0 +1,11 @@
+input {
+    width: 50%;
+}
+
+.card {
+    border: none;
+}
+
+h5 {
+    margin-top: 15px;
+}
