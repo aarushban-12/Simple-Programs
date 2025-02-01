@@ -1,0 +1,7 @@
+.jumbotron, #contact {
+    background-color: lightgrey;
+}
+
+form {
+    max-width: 70%;
+}
