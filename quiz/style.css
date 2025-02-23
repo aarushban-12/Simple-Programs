@@ -1,0 +1,13 @@
+.mb-5 {
+    margin: 0 auto;
+}
+
+.btn {
+    padding: 15px 100px;
+}
+
+.result {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
